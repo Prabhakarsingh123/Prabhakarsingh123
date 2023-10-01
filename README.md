@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabhakar Singh</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <img align="right" alt="coading" width="400" src="https://i.gifer.com/8JIk.gif">
 
